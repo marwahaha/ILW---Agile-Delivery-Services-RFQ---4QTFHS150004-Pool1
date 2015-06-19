@@ -1,0 +1,11 @@
+# AF Agile RFQ
+
+## Installation
+Currently this is just a collection of frontend files with no backend, so it can be easily run from any web server.
+
+An easy option is to use Python's provided HTTP server.
+
+Python 3:
+    python -m http.server
+
+You can then access the prototype at [http://localhost:8000](http://localhost:8000).
