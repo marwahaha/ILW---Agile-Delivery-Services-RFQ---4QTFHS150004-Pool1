@@ -9,3 +9,9 @@ Python 3:
     python -m http.server
 
 You can then access the prototype at [http://localhost:8000](http://localhost:8000).
+
+
+## Libraries/Frameworks Used
+
+* Bootstrap
+* D3.js
