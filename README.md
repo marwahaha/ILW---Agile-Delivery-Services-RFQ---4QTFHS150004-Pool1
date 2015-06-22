@@ -1,5 +1,7 @@
 # AF Agile RFQ
 
+We will be using the (MAUDE)[http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM] dataset.
+
 ## Installation
 Currently this is just a collection of frontend files with no backend, so it can be easily run from any web server.
 
