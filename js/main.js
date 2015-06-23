@@ -1,28 +1,23 @@
-// Sample D3.js line chart
-
 // Set the dimensions of the canvas / graph
-var margin = {top: 30, right: 20, bottom: 30, left: 50},
-    width = 600 - margin.left - margin.right,
+var margin = {top: 30, right: 20, bottom: 30, left: 75},
+    width = 800 - margin.left - margin.right,
     height = 270 - margin.top - margin.bottom;
 
-// Parse the date / time
-var parseDate = d3.time.format("%d-%b-%y").parse;
-
 // Set the ranges
-var x = d3.time.scale().range([0, width]);
+var x = d3.scale.linear().range([0, width]);
 var y = d3.scale.linear().range([height, 0]);
 
 // Define the axes
 var xAxis = d3.svg.axis().scale(x)
-    .orient("bottom").ticks(5);
+    .orient("bottom").ticks(16);
 
 var yAxis = d3.svg.axis().scale(y)
-    .orient("left").ticks(5);
+    .orient("left").ticks(8);
 
 // Define the line
-var valueline = d3.svg.line()
-    .x(function(d) { return x(d.date); })
-    .y(function(d) { return y(d.close); });
+var rateline = d3.svg.line()
+    .x(function(d) { return x(d.period); })
+    .y(function(d) { return y(d.rate); });
 
 // Adds the svg canvas
 var svg = d3.select("#graph")
@@ -35,19 +30,24 @@ var svg = d3.select("#graph")
 
 // Get the data
 d3.csv("data.csv", function(error, data) {
-    data.forEach(function(d) {
-        d.date = parseDate(d.date);
-        d.close = +d.close;
-    });
 
     // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.date; }));
-    y.domain([0, d3.max(data, function(d) { return d.close; })]);
+    x.domain(d3.extent(data, function(d) { return d.period; }));
+    y.domain([0, d3.max(data, function(d) { return d.rate; })]);
 
-    // Add the valueline path.
-    svg.append("path")
-        .attr("class", "line")
-        .attr("d", valueline(data));
+    // Nest the entries by symbol
+    var dataNest = d3.nest()
+        .key(function(d) {return d.name;})
+        .entries(data);
+
+    // Loop through each symbol / key
+    dataNest.forEach(function(d) {
+
+        svg.append("path")
+            .attr("class", "line")
+            .attr("d", rateline(d.values));
+
+    });
 
     // Add the X Axis
     svg.append("g")
