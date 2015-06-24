@@ -24,6 +24,6 @@ path {
     shape-rendering: crispEdges;
 }
 
-#graph {
-    text-align: center;
+.combobox {
+    width: 100%;
 }

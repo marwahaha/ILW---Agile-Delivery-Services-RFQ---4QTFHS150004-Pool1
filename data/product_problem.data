@@ -1,0 +1,986 @@
+1002#Abnormal
+2288#Aborted charge
+1003#Absorption
+1004#Accessory incompatible
+1512#Accuracy rate
+1006#Adaptor, failure of
+1007#Agglutinate, failure to
+2300#Air eliminator, defective
+1008#Air leak
+1022#Alarm not visible
+1620#Alarm system, failure of check-catheter
+1621#Alarm system, failure of gas-leak/loss
+1615#Alarm system, failure of message-battery status
+1616#Alarm system, failure of message-check electrode
+1617#Alarm system, failure of message-leads off
+1618#Alarm system, failure of message-service
+1010#Alarm, audible
+1024#Alarm, error of warning
+1009#Alarm, failure of arterial pressure
+1020#Alarm, failure of fast heart rate
+2386#Alarm, failure of high inspiratory pressure
+1017#Alarm, failure of low flow
+2387#Alarm, failure of low inspiratory pressure
+1025#Alarm, failure of warning
+1015#Alarm, intermittent
+1021#Alarm, no lead
+2286#Algorithms, inconsistent
+1026#Altitude variations
+2877#Ambient noise issue
+2878#Ambient temperature issue
+1029#Antenna, failure of
+1138#Application interface becomes non-functional or program exits abnormally
+2879#Application network issue
+2880#Application program issue
+2881#Application program version or upgrade problem
+2882#Application security issue
+2648#Applicator failure
+2583#Arcing
+2289#Arcing at electrodes
+1032#Arcing at paddles
+1036#Artifact
+1039#Artificial
+2883#Aspiration issue
+1041#Aspiration, excessive
+1042#Aspiration, incomplete
+1043#Augmentation, loss of
+1046#Automatic injection system overinfusion
+2307#Automatic injection system underinfusion
+1734#Automatic injection system, failure to infuse
+1045#Automatic injection system, incompatible
+2303#Bacterial contamination of device
+1050#Balloon asymmetrical
+1051#Balloon burst
+1052#Balloon leak(s)
+1053#Balloon mushroomed
+2611#Balloon pinhole
+1049#Balloon rupture
+1054#Battery charger, defective
+1055#Battery failure
+2884#Battery impedance issue
+2885#Battery issue
+1059#Bent
+1060#Bicarbonate
+2886#Biocompatibility issue
+1062#Biofilm coating in device
+2887#Biological environmental factor
+1063#Blank screen
+1064#Bleed back
+1065#Blockage within device or device component
+2888#Blocked connection
+2290#Blood gas measurements, erroneous
+1746#Blood in tubing
+2318#Blood pooling
+1067#Bolus mechanism failure
+1069#Break
+2297#Bubble detector, failure of
+1070#Bubble(s)
+2889#Buckled material
+2305#Burn hole(s)
+1071#Burn of device or device component
+1073#Burrs, breakage of
+1074#Burst
+1076#Cable break
+2302#Cable, defective
+1077#Calcified
+1078#Calibration error
+2890#Calibration issue
+2672#Cannula Guide Issue, No Description
+2674#Cannula Guide, Difficult to Locate
+2673#Cannula Guide, Needle Insertion Difficult
+1079#Capacitive coupling
+2891#Capturing issue
+1082#Carbon absorption
+2319#Cardiac enzyme evaluation, erroneous
+2612#Catheter withdrawal interference
+1075#Cathode ray tube (CRT) failure
+1083#Cautery
+1027#Changes in ambient temperature in device environment
+1084#Channeling
+2892#Charging issue
+1086#Charred
+2893#Chemical issue
+1087#Chemical reaction
+2894#Chemical spillage
+1088#Circuit breaker tripped
+1089#Circuit Failure
+1090#Clean, failure to
+1092#Clearance
+2576#Clips, scissored
+2609#Close, difficult to
+1095#Clumping in device or device ingredient
+1096#Coagulation in device or device ingredient
+1097#Coefficient error
+1098#Coiled
+1099#Collapse
+1100#Collimator design problem
+1101#Colony forming units
+2650#Color Variation, Lens
+2896#Communication or transmission issue
+1102#Compatibility
+1105#Component falling
+1108#Component incompatible
+2306#Component missing
+2897#Component or accessory incompatibility
+1103#Component(s), broken
+1106#Component(s), overheating of
+1107#Component(s), worn
+1110#Computer failure
+1111#Computer hardware error
+2898#Computer operating system issue
+1112#Computer software issue
+2899#Computer system security issue
+1113#Concentrate
+1115#Conductivity
+1116#Connection error
+2900#Connection issue
+1117#Connector pin failure
+1118#Contact lens, problem with trial set
+1120#Contamination during use
+2901#Contamination of device ingredient or reagent
+1122#Continuous
+1123#Continuous firing
+1124#Continuous mode failure
+1127#Cool, failure to
+1128#Coolant, contraindicated
+1129#Cooling system, failure of
+1131#Corrosion
+1132#Counterbalance break
+1134#Couple, failure to
+1135#Crack
+1136#Cross connection
+1137#Cross reactivity
+1139#Cuff degeneration
+2454#Cut in material
+1140#Cutoff point
+1141#Cutter-torque-cable twisted or tangled
+2902#Data back-up problem
+3196#Data Issue
+2582#Date-related software issue
+1144#Declotting
+1145#Decoupling
+1490#Decrease in pressure
+1146#Decrease in suction
+1500#Decreased pump speed
+2534#Decreased sensitivity
+1014#Defective Alarm
+2292#Defective component
+2588#Defective item
+1150#Deflation due to capsulotomy
+1151#Deflation due to damage from surgical instrument
+1152#Deflation due to trauma
+1149#Deflation issue
+1148#Deflation, cause unknown
+1153#Degraded
+1155#Deionizer, failure of
+2904#Delamination
+1011#Delayed alarm
+2586#Delayed charge time
+1421#Delivered as unsterile product
+2905#Delivery system failure
+2664#Delivery System Issue, No Description
+2526#Dent in material
+2906#Deployment issue
+1159#Deprimed
+1161#Design/structure problem
+1104#Detachment of device component
+2907#Detachment of device or device component
+2504#Deterioration of prosthesis
+1387#Device abrasion from instrument or another object
+1012#Device alarm system issue
+1091#Device Cleaning Issue
+1094#Device clogged
+2908#Device Contamination with biological material
+2317#Device contamination with blood or blood product
+2284#Device damaged prior to use
+3134#Device Difficult to maintain
+1487#Device Difficult to Setup or Prepare
+2909#Device disinfection or sterilization issue
+2591#Device displays error message
+1425#Device emits odor
+1216#Device expiration issue
+3265#Device handling issue
+2910#Device ingredient or reagent issue
+1663#Device inoperable
+2379#Device Issue
+1379#Device maintenance issue
+2911#Device markings issue
+2912#Device misassembled during manufacturing or shipping
+2913#Device operates differently than expected
+2914#Device operational issue
+2915#Device or device component damaged by another device
+2590#Device or device fragments location unknown
+2916#Device packaging compromised
+1525#Device remains activated
+1526#Device remains implanted
+2309#Device Rinsing Issue
+2917#Device sensing issue
+1599#Device stops intermittently
+2918#Device unsafe to use in environment
+1527#Device, or device fragments remain in patient
+2608#Device, removal of (non-implant)
+2919#Device-device incompatibility
+1165#Dialysate
+1166#Dialyzer, failure of
+2577#Difficult or delayed activation
+2920#Difficult to advance
+1157#Difficult to deploy
+1251#Difficult to flush
+1254#Difficult to fold or unfold
+1316#Difficult to insert
+1331#Difficult to interrogate
+2921#Difficult to open or close
+2922#Difficult to open or remove packaging material
+1467#Difficult to position
+1496#Difficult to Program or Calibrate
+1528#Difficult to remove
+1168#Disassembly
+1309#Disc, incomplete opening of
+1171#Disconnection
+1172#Disengaged
+2895#Disinfection or Sterilization Issue at User Location
+1176#Disinfection, inadequate/improper
+1178#Dislocated
+1179#Dislodged
+2923#Dislodged or dislocated
+1180#Displacement
+1181#Display misread
+1185#Disposable
+2412#Dissatisfaction
+1186#Dissection
+1187#Distilled water, contaminated
+1188#Dome collapse
+1189#Dose calculation error due to software problem
+1191#Drift
+1192#Dry, failure to
+2407#Dull
+1193#EKG/ECG analysis, failure to perform
+1195#Elective removal
+1196#Elective replacement
+1198#Electrical issue
+2924#Electrical overstress
+2925#Electrical power problem
+2926#Electrical shorting
+2294#Electrical wires, defective
+1194#Electro-magnetic interference (EMI)
+2345#Electro-magnetic interference (EMI), compatibility/incompatibility
+2149#Electro-static discharge
+1200#Electrode contact(s), problem with
+1201#Electrode(s), degeneration of
+1199#Electrode(s), failure of
+1202#Electrode(s), fracture of
+1203#Electrode(s), migration of
+2927#Electromagnetic compatibility issue
+2928#Electronic property issue
+1205#Emergency power failure
+1206#Emergency stop button or switch failure
+1207#Emergency table stop failure
+2505#End of prosthetic life
+2555#Endarterectomy suture breakage
+1208#Endoscopic accessory fire or melt
+1209#Energy output to patient tissue incorrect
+1210#Energy spectrum incorrect
+1212#Entrapment of device or device component
+2929#Environmental control or utility issue
+2930#Environmental Particulates
+1182#Erratic display
+1215#Error or warning message, failure to produce
+2931#Escape
+1311#Excess flow or overinfusion
+2932#Excessive cooling
+2527#Excessive Manipulation
+2629#Exit block
+2528#Expiration date error
+1217#Explanted
+1218#Explode
+2933#Expulsion
+1219#External fiberoptic break
+1221#Extraneous radiofrequency wave transmission
+2934#Extrusion
+2618#Extrusion, impending
+2935#Facilities issue
+1222#Fail-safe design failure
+2936#Fail-safe mechanism issue
+2937#Failure of device to self-test
+1031#Failure to Adhere or Bond
+2524#Failure to advance
+2522#Failure to align
+1539#Failure to analyze rhythm
+2938#Failure to auto stop
+1047#Failure to back-up
+2440#Failure to calibrate
+1081#Failure to capture
+1085#Failure to charge
+1114#Failure to conduct
+1540#Failure to convert rhythm
+1048#Failure to convert to back-up
+2587#Failure to cut
+1142#Failure to cycle
+2338#Failure to deliver
+1133#Failure to deliver countershock
+1211#Failure to deliver energy
+1158#Failure to deploy
+1169#Failure to discharge
+2541#Failure to disconnect
+1175#Failure to disinfect
+3270#Failure to expand
+2610#Failure to fire
+1252#Failure to flush
+1255#Failure to fold
+2579#Failure to form staple
+2340#Failure to infuse
+1332#Failure to interrogate
+2533#Failure to obtain samples
+1863#Failure to osseointegrate
+1542#Failure to override rhythm
+1439#Failure to pace or properly pace
+1476#Failure to power-up
+1492#Failure to prime
+1502#Failure to pump
+1581#Failure to read input signal
+1517#Failure to recalibrate
+1213#Failure to remove enzymatic cleaner
+1532#Failure to reset
+1001#Failure to run on AC/DC
+1466#Failure to run on portable mode
+1582#Failure to select signal
+1559#Failure to sense
+2547#Failure to separate
+1563#Failure to service
+1573#Failure to shock or properly shock
+2939#Failure to shut off
+2536#Failure to spike
+1596#Failure to sterilize
+1521#Failure to transmit record
+1669#Failure to unfold or unwrap
+2940#Failure to unwrap
+1683#Failure to zero
+1223#Failure, intermittent
+1013#False alarm
+1224#False claim
+1226#False device output
+1225#False negative result
+1227#False positive result
+1228#False reading from device non-compliance
+1230#Fiberguide incompatibility
+1229#Fiberoptic break/separation
+1231#Fiberoptic cladding material separation
+1093#Fiberoptic cleaver, failure of
+2567#Fibrosis
+1233#Filling problem
+1235#Film processing, inadequate
+2151#Film processor failure
+1236#Filter
+1238#Filter break(s)
+1237#Filter leak(s)
+1242#Filter tear(s)
+1243#Filter, assembly
+1244#Filter, inadequate
+2941#Filtration issue
+1245#Fire
+2183#Fitting problem
+1246#Flaked
+1247#Flammable
+2942#Flare or flash
+2943#Flashpoint threshold met
+1250#Fluid leak
+2619#Fluid/volume, increased
+1253#Fogging
+2630#Folded
+2654#Folding Issue
+1257#Footrest break
+1256#Footrest detachment
+1258#Footswitch failure
+1259#Foreign material
+2944#Foreign material present in device
+1260#Fracture
+2945#Free or unrestricted flow
+2529#Fumes or vapors
+1263#Function indicator light(s), failure of
+2316#Fungus in device environment
+2592#Fuse, blown
+1264#Gain, inadequate
+1265#Gas delivery system failure
+2946#Gas leak
+1267#Gel leak
+1268#Germicide
+1269#Glass, shattered
+1270#Gradient increase
+1271#Grounding malfunction
+1272#Growth, will not support
+1274#Handpiece break
+1275#Handpiece detachment
+1277#Handrest break
+1276#Handrest detachment
+2667#Haptic Damaged in Delivery System
+2657#Haptic Issue, No Description
+2668#Haptic Stuck in Delivery System
+1278#Haptic(s), bent
+1279#Haptic(s), broken
+1280#Haptic(s), detached
+1281#Haptic(s), dislocated
+1282#Haptic(s), fractured
+2658#Haptic, Kinked
+2660#Haptic, Missing
+2659#Haptic, Stuck to Optic
+1283#Head immobilizer failure
+1285#Heat
+1286#Heat, failure to
+1289#Hemofiltration
+2649#Hermetic seal, loss of
+2947#High battery impedance
+3266#High capture threshold
+1290#High flux rate
+1291#High impedance
+2426#High pH
+2459#High Readings
+2574#High sensing threshold
+2457#High test results
+1293#Hole in material
+1294#Hose line occlusion
+1295#Hose line rupture
+1296#Hose mismatch
+1298#Hot oil leak
+2948#Human factors issue
+2949#Human-Device Interface Issue
+1299#Hybrid failure
+1300#Hydraulic system failure
+1301#Hydrogen peroxide sterilization, explosion during
+1303#Ignited
+1304#Image display error
+1305#Image orientation incorrect
+1306#Image resolution poor
+1358#Image reversal
+2950#Impedance issue
+2646#Implant breakage or physical damage
+2154#Implant extrusion
+2645#Implant Mobility NOS (Not otherwise specified)
+2647#Implant overload
+2320#Implant, removal of
+2321#Implant, repositioning of
+2322#Implant, reprogramming of
+1307#Imprecision
+2951#Improper alarm
+2952#Improper chemical reaction
+2953#Improper device output
+2954#Improper flow or infusion
+1266#Improper gas output
+2017#Improper or incorrect procedure or method
+1044#Inability to autofill
+1337#Inability to irrigate
+2339#Inaccurate delivery
+2955#Inaccurate dispensing
+1249#Inaccurate flowrate
+1609#Inaccurate synchronization
+2308#Inadequate filtration process
+1319#Inadequate instructions for healthcare professional
+2956#Inadequate instructions for non-healthcare professional
+2957#Inadequate lighting
+1564#Inadequate service
+1600#Inadequate storage
+1643#Inadequate training
+2958#Inadequate user interface
+2959#Inappropriate or unexpected reset
+2280#Inappropriate prompts
+1574#Inappropriate shock
+2283#Inaudible voice prompts
+2960#Incompatibility problem
+2507#Incomplete coaptation
+2312#Incomplete or missing packaging
+2962#Incorrect device or component shipped
+1184#Incorrect display
+2963#Incorrect error code
+1543#Incorrect interpretation of rhythm
+1383#Incorrect measurement
+1535#Incorrect or inadequate result
+2456#Incorrect or inadequate test results
+1495#Incorrect software programming calculations
+1491#Increase in pressure
+1604#Increase in suction
+1501#Increased pump speed
+2535#Increased sensitivity
+1310#Inflation issue
+2964#Infusion or flow issue
+1312#Injector system failure, no infusion
+1313#Injector system failure, overinfusion of
+1314#Injector system failure, underinfusion of
+1317#Installation error
+2965#Installation-related problem
+1318#Instruction for use issue
+1130#Insufficient cooling
+2182#Insufficient flow or underinfusion
+1287#Insufficient heating
+1320#Insulation degradation
+1323#Insulation failure
+1321#Insulation, detached
+1322#Insulation, discolored
+1325#Insulation, hole(s) in
+1326#Insulation, none
+1327#Interference
+1328#Interference with monitoring device
+1329#Interference with pacemaker
+2157#Interlock(s), failure of
+1330#Interlumen communication
+1080#Intermittent capture
+1121#Intermittent continuity
+2341#Intermittent infusion
+2287#Intermittent shock
+2383#Internal fixation, revision of
+1334#Intra-cavity procedure, fiberoptic break or fragmentation during
+1335#Intraprocedure, fire or flash during
+2293#Invalid sensing
+2967#Issue with displayed error message
+2969#Item contaminated during manufacturing or shipping
+1919#IUD (intrauterine contraceptive device), removal of
+1920#IV catheter pull out
+1302#IV pole, detachment of parts from
+1338#Kinetic
+1339#Kinked
+1340#Knotted
+2531#Labeling, missing
+2971#Lack of maintenance documentation or guidelines
+2381#Laparoscopic sterilization
+1342#Laser nozzle separation
+1343#Laser output above specifications
+1344#Laser output, unintended
+1345#Laser pulse timing error
+1346#Laser tip separation
+2622#Lead tip breakage at implant, fragments remain in ventricle
+1347#Lead(s), breakage of
+1348#Lead(s), burn(s) from
+1349#Lead(s), electrocution from
+1350#Lead(s), fracture of
+1351#Lead(s), shock from
+1352#Leaflet disc escape
+2568#Leaflet disruption due to suture abrasion
+2540#Leaflet disruption, cause unknown
+2413#Leaflet fracture
+1354#Leak
+1355#Leak(s) from hydraulic bed system
+2635#Lens (IOL), defective, problem not specified
+1934#Lens (IOL), dislocated intraocular
+2631#Lens (IOL), line, crease on
+1935#Lens (IOL), migration of intraocular
+2632#Lens (IOL), nicked, chipped
+2633#Lens (IOL), scratch, mark on
+2634#Lens (IOL), torn, split, cracked
+2158#Lens aberration, distortion of
+2665#Lens Damaged in Delivery System
+2384#Lens implant
+2651#Lens Issue, No Description
+2184#Lens replacement
+2666#Lens Stuck in Delivery System
+1367#Lens washers, failure of
+1040#Lens, aspherical
+1061#Lens, bifocal
+1359#Lens, cloudy
+2638#Lens, damaged by cartridge
+1232#Lens, deposits on
+2644#Lens, difficulty loading into cartridge
+1361#Lens, disc
+1362#Lens, discoloration of
+1363#Lens, malposition of
+1411#Lens, multifocal
+1364#Lens, opacification of
+1365#Lens, repositioning of
+2637#Lens, stuck in cartridge
+2652#Lens, Stuck to Itself
+1640#Lens, toric
+1366#Lens, vaulting
+2972#Light interference
+1368#Linear
+2593#Locking mechanism failure
+1369#Lockout mechanism failure
+1370#Looping
+1372#Loose
+1371#Loose or intermittent connection
+2903#Loss of Data
+1068#Loss of or failure to bond
+2408#Loss of osseointegration
+1475#Loss of power
+1633#Loss of threshold
+1016#Low audible alarm
+2584#Low battery
+2973#Low battery impedance
+2285#Low impedance
+2460#Low readings
+2575#Low sensing threshold
+2458#Low test results
+1373#Lubrication
+1375#Magnet failure
+1376#Magnet mode discrepancy
+1378#Magnetic interference
+2974#Maintenance does not comply to manufacturers recommendations
+2409#Malfunction
+2616#Malposition of device
+2975#Manufacturing or shipping issue associated with device
+1381#Markings unclear
+1382#Markings, none
+2976#Material deformation
+1170#Material discolored
+1177#Material disintegration
+2977#Material Distortion
+1214#Material erosion
+1261#Material fragmentation
+1262#Material frayed
+2978#Material integrity issue
+1336#Material invagination
+1426#Material opacification
+2205#Material perforation
+2979#Material Protrusion
+1504#Material puncture
+1544#Material rigid or stiff
+1546#Material rupture
+1562#Material separation
+2980#Material torqued
+2981#Material twisted
+2982#Measurement system incompatibility
+1005#Measurements, inaccurate
+1384#Mechanical issue
+2983#Mechanical jam
+2984#Mechanics altered
+2985#Medical Gas Supply problem
+3198#Medication Error
+1385#Melted
+1390#Membrane leak(s)
+1391#Membrane tear(s)
+1804#Metal shedding debris
+1392#Meter
+2382#Meter failure
+1393#Method, improper/incorrect
+1395#Migration of device or device component
+1374#Milliamps (MA) rate, unable to increase
+1396#Mineralization
+1397#Misapplication
+1398#Misassembled
+3133#Misassembled by Users
+2410#Miscalibration
+1399#Misconnection
+2532#Misfire
+1401#Misfocusing
+1402#Mislabeled
+1403#Mislocation
+1404#Misplacement
+2653#Misshaped Lens (Warped, not round)
+3267#Missing test results
+3192#Missing Value Reason
+1405#Moisture damage
+2986#Moisture or humidity problem
+1406#Monitor display alarm, failure of
+1407#Monitor failure
+2160#Motion detector failure
+1410#Motor drive unit (MDU) stalled or jammed
+1409#Motor failure
+2987#Mushroomed
+2988#Naturally worn
+1414#Needle, dull
+1220#Needle, extra
+1415#Needle, separation
+1416#Needle, unsheathed
+3191#No code available
+1435#No device output
+1183#No display or display failure
+2990#No fail-safe mechanism
+2991#No flow
+3190#No Information
+2993#No Known Device Problem
+3268#No pacing
+2994#No Pressure
+2624#No telemetry
+2282#No voice prompts
+2163#Noise
+3273#Noise, Audible
+1418#Non-linear
+1419#Nonpyrogenic
+1420#Nonstandard device or device component
+1422#Normal
+3189#Not Applicable
+1019#Not audible alarm
+2661#Nozzle Tip Issue, No Description
+2663#Nozzle Tip, Rough
+2662#Nozzle Tip, Stressed, Split
+2423#Obstruction within device
+1423#Occlusion within device
+1424#Occlusion, incorrect
+1">O# To Be Deactivated
+2996#Operating system becomes non-functional
+2997#Operating system version or upgrade problem
+2656#Optic Edge Issue
+1360#Optical decentration
+2999#Optical discoloration
+3000#Optical distortion
+3001#Optical issue
+3002#Optical obstruction
+3003#Osseointegration issue
+2203#Other (for use when an appropriate device code cannot be identified)
+2311#Out-of-box failure
+1432#Output above specifications
+3004#Output below specifications
+1431#Output energy incorrect
+3005#Output issue
+1433#Output, high
+1434#Output, low
+3006#Overcorrection
+2342#Overdelivery
+2404#Overfill
+1437#Overheating of device or device component
+1438#Oversensing
+1440#Pacer found in back-up mode
+1441#Pacing asynchronously
+1442#Pacing inadequately
+1443#Pacing intermittently
+3007#Packaging issue
+1445#Pallet break
+1446#Pallet crack(s)
+1448#Paramagnetic
+1449#Parameter calculation error due to software problem
+2508#Paravalvular leak
+1450#Paravalvular leak(s)
+1451#Particulates
+2424#Patch test, abnormal results of
+3197#Patient Data Issue
+2682#Patient-device incompatibility
+1454#Peeled
+1455#Percutaneous
+1456#Performance
+1457#Perivalvular leak
+2425#pH, low
+1458#Phantom problem
+1147#Photomultiplier (PM) tube, defective
+3008#Physical property issue
+2578#Physical resistance
+1459#Pierce
+2585#Pipette, failure to aspirate
+1460#Pitted
+1461#Plugged
+1462#Plunge
+2669#Plunger Issue, No Description
+2670#Plunger not Aligned Properly
+2671#Plunger Override
+1463#Pocket stimulation
+1464#Poor gas exchange
+1408#Poor quality image
+1465#Port leak(s)
+3009#Positioning Issue
+1469#Potency
+1470#Potentiometer readings, high
+1471#Potentiometer readings, low
+1473#Power calculation error due to software problem
+1474#Power Conditioning Issue
+3010#Power source issue
+1477#Pre or post-pumping problem
+1478#Precipitate in device or device ingredient
+1479#Precision
+1484#Premature deployment
+1057#Premature discharge of battery
+1483#Premature elective replacement indicator
+1480#Premature end-of-life indicator
+1485#Premature explantation
+3011#Premature indicator activation
+1486#Premature system activation
+1488#Prep, failure to
+3012#Pressure issue
+1489#Pressure sensor failure
+2391#Pressure, insufficient
+1493#Probe failure
+3013#Problem with software installation
+1506#Product quality issue
+1497#Program, failure to
+3014#Programming issue
+2281#Prompts will not clear
+3015#Protective measure issue
+3016#Pumping issue
+1503#Pumping stopped
+1505#Pyrogenic
+1507#R on T phenomenon
+1509#Radiation exposure, unintended
+1357#Radiation leak
+3017#Radiation Overexposure
+2313#Radiation overexposure
+2031#Radiation underexposure
+3018#Radiation Underexposure
+1511#Radio signal problem
+2314#Radiofrequency interference (RFI)
+1513#Rate modulated pacing sensor, failure of
+1514#Reaction
+1518#Recannulation
+1519#Receiver failure
+1520#Receiver stimulator unit, failure of
+1522#Reflux within device
+1523#Regenerate
+1524#Rejection
+1529#Repair
+1530#Replace
+1531#Reservoir
+3019#Reset issue
+2325#Residue after decontamination
+1533#Resistance, inadequate
+1534#Resistance, loss of
+2043#Respirator, detachment from
+1248#Restricted flowrate
+1536#Retraction problem
+1537#Reuse
+1538#Reverse osmosis
+1541#Rhythm, failure to diagnose
+1545#Runaway
+1547#Rupture due to capsulotomy
+1550#Rupture due to damage from surgical instrument
+1552#Rupture due to trauma
+1548#Rupture, cause unknown
+1549#Rupture, fold or crease due to
+2167#Safety interlock(s) inadequate
+1553#Saline, use of homemade
+1554#Salt tablet(s), use of
+3020#Scratched material
+1681#Screw head(s), incorrect
+1143#Screw tapper, damaged
+2301#Seal, defective
+1555#Seal, incorrect
+1556#Sediment filter problems
+3021#Sediment, precipitate or deposit in device or device ingredient
+1557#Self-activation or keying
+2291#Semiautomatic code, failure to override
+1558#Sensing intermittently
+1560#Sensitivity
+1561#Sensor problems
+1565#Shaft break
+1566#Shaft, split
+2594#Sharp/jagged/rough/etched/scratched
+1567#Shelf life exceeded
+1568#Shielding failure
+1569#Shielding, inadequate
+1570#Shipping damage or problem
+1571#Shock counters, resetting of
+1197#Shock, electrical
+1572#Shock, failure to advise
+1575#Short fill
+1576#Shoulder rest, detachment of
+1577#Shoulder support, detachment of
+1578#Shunts, failure of
+1579#Shutter failure
+1580#Side rails, failure of
+1583#Size incorrect for patient
+1584#Slippage of device or device component
+1585#Smoking
+2324#Solder joint failure
+1586#Source, detachment from
+1588#Source, incorrect
+1587#Source, leak(s) from
+1665#Source, unretracted
+2595#Spark
+2310#Specialty beds, rips/tears in
+1589#Specificity
+1590#Speech processor failure
+1591#Spillage, accidental
+2537#Split
+1592#Spring loading mechanism problem
+1594#Steering wire problem
+1595#Sterility
+1597#Sticking
+2304#Stopcock valve, failure of
+1601#Stretched
+2538#Strikethrough
+2506#Structural problem
+1602#Strut fracture
+1603#Stuck in inspiratory or expiratory phase
+2170#Suction issue
+1605#Superheat
+1606#Supplier
+2323#Surgical graft, failure of
+2623#Suspect EMI
+1607#Suture line disruption
+1608#Suture line separation
+1611#Syringe drive problem
+1614#Syringe markings inaccurate
+2405#Syringe markings, incorrectly placed
+1612#Syringe, defective
+1613#Syringe, hole(s) in
+1619#System fails to activate
+1625#Table break
+1626#Table collapse
+1623#Table incrementation incorrect
+1624#Table top motion, unintended
+1622#Table, tilting
+1627#Tap water, use of
+2385#Tear, rip or hole in device packaging
+1628#Tears, rips, holes in device, device material
+1629#Telemetry discrepancy
+3022#Temperature issue
+2296#Temperature probe, loose
+1630#Test strips, incompatible
+3023#Therapeutic or diagnostic output failure
+1508#Therapy delivered to incorrect body area
+1632#Threader failure
+1634#Tidal volume fluctuations
+1635#Timer failure
+1637#Timer malfunction
+1638#Tip breakage
+2589#Tipover
+1639#Tomographic pallet crack(s)
+3024#Torn material
+1641#Torqued
+1642#Tracking
+1646#Transducer failure
+1644#Transducer overheating
+1645#Transducer probe overheating
+1647#Transmitter failure
+1648#Trocar failure
+1649#Trocar/fiber incompatibility
+1650#Trocar/instrument incompatibility
+2346#Tube(s), buckling of
+2299#Tube(s), defective
+1651#Tube(s), exploding of
+1652#Tube(s), shattering of
+1653#Tube(s), splitting of
+1654#Tubing, incorrect placement of
+1655#Twisting
+1656#Ultrafiltration
+1657#Ultraviolet
+1658#Ultraviolet absorbing
+2625#Unable to interrogate
+1516#Unable to obtain readings
+3025#Unauthorized access to computer system
+1659#Uncoiled
+1660#Undercorrection
+2343#Underdelivery
+1661#Undersensing
+1631#Unexpected therapeutic results
+2636#Unfold, difficult to
+1033#Unintended arm motion
+1429#Unintended collision
+1234#Unintended ejection
+1162#Unintended energization
+1284#Unintended head motion
+1377#Unintended magnet quench
+3026#Unintended movement
+1430#Unintended system motion
+1662#Unit inactivated
+2204#Unknown (for use when the device problem is not known)
+1664#Unraveled material
+1444#Unsealed device packaging
+1667#Unstable
+3269#Unstable capture threshold
+1668#Unwrap, difficult to
+1670#Use of Device Issue
+1126#Use of Incorrect Control Settings
+1494#User used incorrect product for intended use
+1671#Vacuum, loss of
+2298#Valve(s), defective
+1672#Valve(s), failure of
+1673#Valve(s), sticking
+3027#Ventilation issue in device environment
+1674#Vibration
+2615#Visibility/palpability
+1675#Volume accuracy issue
+1676#Warning light, incorrect
+2315#Water purification system, failure of
+1677#Water softener process, failure of
+2295#Water softener regeneration cycle, mistiming of
+1678#Water treatment
+1682#Wavelength, incorrect
+1679#Wedge filter problem
+1680#Wedge, difficult to
+2347#Wire(s), breakage of
+3283#Wireless communication issue
+2614#Wrinkled
+2581#Year 2000 (Y2K) related problem
