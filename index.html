@@ -13,6 +13,8 @@
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/bootstrap-table.min.css">
         <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -98,12 +100,15 @@
         </div>
       </div>
       <div class="row">
-        <table class="table table-bordered table-striped col-sm-12">
+        <table class="table table-bordered table-striped col-sm-12" data-toggle="table" data-sort-name="manufacturer" data-sort-order="asc">
+        <thead>
         <tr>
-          <th>Manufacturer</th>
-          <th>Brand Name</th>
-          <th>Date Report Received</th>
+          <th data-field="manufacturer" data-sortable="true">Manufacturer</th>
+          <th data-field="brand_name" data-sortable="true">Brand Name</th>
+          <th data-field="date_received" data-sortable="true">Date Report Received</th>
         </tr>
+        </thead>
+        <tbody>
         <tr bgcolor="#ffffff">
         <td align="left">THORATEC CORPORATION</td>
         <td align="left">
@@ -192,6 +197,7 @@
         </td>
         <td align="center">05/31/2015</td>
         </tr>
+        </tbody>
         </table>
       </div>
 
@@ -200,12 +206,13 @@
       <footer>
         <p>&copy; Illumination Works, LLC 2015</p>
       </footer>
-    </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-
-        <script src="js/vendor/bootstrap.min.js"></script>
-        <script src="js/vendor/d3.js"></script>
-        <script src="js/vendor/bootstrap-combobox.js"></script>
-        <script src="js/main.js"></script>
+    </div> <!-- /container -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script src="js/vendor/d3.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/vendor/bootstrap-combobox.js"></script>
+    <script src="js/vendor/bootstrap-table.min.js"></script>
+    <script src="js/main.js"></script>
     </body>
 </html>
