@@ -27,3 +27,7 @@ path {
 .combobox {
     width: 100%;
 }
+
+.component {
+    margin-bottom: 20px;
+}

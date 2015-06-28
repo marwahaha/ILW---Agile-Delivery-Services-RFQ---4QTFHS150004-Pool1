@@ -1,12 +1,22 @@
-from bottle import route, run, template, get, static_file
+from bottle import request, route, run, template, get, static_file
 
 @route('/')
 def index():
-    return template('index')
-
-@route('/test')
-def test():
     return template('templates/search')
+
+@route('/search')
+def search():
+    search_terms = request.query
+    # TODO: Search and return list, pass into template
+    return template("templates/results")
+
+@route('/report')
+def view_report():
+    return template("templates/view_report")
+
+@route('/trend')
+def view_trend_report():
+    return template("templates/view_trend_report")
 
 # Static Routes
 @get('/js/<filename:re:.*\.js>')
@@ -20,6 +30,10 @@ def stylesheets(filename):
 @get('/img/<filename:re:.*\.(jpg|png|gif|ico)>')
 def images(filename):
     return static_file(filename, root='img')
+
+@get('/favicon.ico')
+def images():
+    return static_file('favicon.ico', root='img')
 
 @get('/fonts/<filename:re:.*\.(eot|ttf|woff|svg)>')
 def fonts(filename):
