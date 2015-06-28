@@ -4,6 +4,10 @@ from bottle import route, run, template, get, static_file
 def index():
     return template('index')
 
+@route('/test')
+def test():
+    return template('templates/search')
+
 # Static Routes
 @get('/js/<filename:re:.*\.js>')
 def javascripts(filename):
