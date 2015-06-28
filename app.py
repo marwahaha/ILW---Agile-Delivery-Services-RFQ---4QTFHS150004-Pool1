@@ -43,4 +43,4 @@ def fonts(filename):
 def fonts(filename):
     return static_file(filename, root='data')
 
-run(host='localhost', port='8080')
+run(host='0.0.0.0', port='8080')
