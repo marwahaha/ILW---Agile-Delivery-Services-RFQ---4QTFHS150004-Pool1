@@ -7,7 +7,7 @@
       <div class="form-group form-group-sm">
         <label class="control-label col-sm-3">Product Problem</label>
         <div class="col-sm-9">
-          <select id="product-problem" class="combobox" name="product_problem">
+          <select id="product_problem" class="combobox" name="product_problem">
               <option></option>
           </select>
         </div>
@@ -15,7 +15,7 @@
       <div class="form-group form-group-sm">
         <label class="control-label col-sm-3">Product Class</label>
         <div class="col-sm-9">
-          <select id="product_class" class="combobox" name="product-class">
+          <select id="product_class" class="combobox" name="product_class">
               <option></option>
           </select>
         </div>
@@ -23,7 +23,7 @@
       <div class="form-group form-group-sm">
         <label class="control-label col-sm-3">Event Type</label>
         <div class="col-sm-3">
-          <select id="event_type" class="combobox" name="event-type">
+          <select id="event_type" class="combobox" name="event_type">
               <option></option>
           </select>
         </div>

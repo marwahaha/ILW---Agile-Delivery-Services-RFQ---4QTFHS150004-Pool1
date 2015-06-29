@@ -10,6 +10,6 @@ var getSelectCsv = function(selector, url) {
         $(selector).combobox();
     });
 };
-getSelectCsv('#product-problem', 'data/product_problem.data');
-getSelectCsv('#product-class', 'data/product_class.data');
-getSelectCsv('#event-type', 'data/event_type.data');
+getSelectCsv('#product_problem', 'data/product_problem.data');
+getSelectCsv('#product_class', 'data/product_class.data');
+getSelectCsv('#event_type', 'data/event_type.data');
