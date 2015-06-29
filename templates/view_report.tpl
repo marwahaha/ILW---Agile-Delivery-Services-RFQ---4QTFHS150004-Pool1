@@ -20,7 +20,7 @@
   <div class="row">
     <div class="col-md-12">
         <div class="component">
-            <a class="btn btn-primary">&lt;&lt; Return to Search</a>
+            <a class="btn btn-primary" href="/search">&lt;&lt; Return to Search</a>
             <a class="btn btn-default">Submit an Adverse Event Report</a>
         </div>
     </div>
