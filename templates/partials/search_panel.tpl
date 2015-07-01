@@ -53,7 +53,7 @@
         </div>
       </div>
       <div class="buttons right">
-        <button type="submit" class="btn btn-default">Search</button>
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Search</button>
       </div>
     </form>
   </div>
