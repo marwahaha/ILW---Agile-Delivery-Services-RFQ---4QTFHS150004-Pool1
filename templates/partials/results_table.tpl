@@ -1,4 +1,4 @@
-<table class="table table-bordered table-striped col-sm-12" data-toggle="table" data-sort-name="manufacturer" data-sort-order="asc">
+<table class="table table-bordered table-striped col-sm-12 search-results" data-toggle="table" data-sort-name="manufacturer" data-sort-order="asc">
         <thead>
         <tr>
           <th data-field="manufacturer" data-sortable="true">Manufacturer</th>

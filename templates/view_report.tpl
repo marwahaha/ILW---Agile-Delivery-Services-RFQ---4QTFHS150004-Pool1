@@ -1,7 +1,7 @@
 % include('templates/partials/head.tpl')
 % include('templates/partials/nav.tpl')
 
-<div class="container">
+<div class="container main">
   <div class="row">
     <div class="col-md-12">
       <div class="panel panel-default">

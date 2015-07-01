@@ -31,3 +31,23 @@ path {
 .component {
     margin-bottom: 20px;
 }
+
+
+.navbar-brand .company-name {
+    color: #eeb233;
+}
+
+table.search-results thead, .search.panel .panel-heading {
+    background-image: linear-gradient(0deg, #0066cc, #c7dbf5);
+    color: #fff;
+}
+
+.container.main .row:first-child {
+    margin-top: 50px;
+}
+
+.navbar-header .logo {
+    float: left;
+    height: 90%;
+    margin-right: 15px;
+}

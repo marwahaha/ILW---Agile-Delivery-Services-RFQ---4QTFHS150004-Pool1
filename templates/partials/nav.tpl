@@ -7,7 +7,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">GSA/18F RFQ Prototype</a>
+          <img class="logo" src="img/logo_icon_sm.png">
+          <a class="navbar-brand" href="#"><span class="company-name">Illumination Works</span> | GSA/18F RFQ Prototype</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->

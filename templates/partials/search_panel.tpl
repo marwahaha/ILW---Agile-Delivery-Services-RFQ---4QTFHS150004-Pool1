@@ -1,6 +1,6 @@
-<div class="panel panel-default">
+<div class="panel panel-default search">
   <div class="panel-heading">
-    <h3 class="panel-title">Search</h3>
+    <h3 class="panel-title">Search the Database</h3>
   </div>
   <div class="panel-body">
     <form class="form-horizontal" action="search" method="GET">
