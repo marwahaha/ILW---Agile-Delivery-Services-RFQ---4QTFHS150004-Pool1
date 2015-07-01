@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">AF Agile RFQ</a>
+          <a class="navbar-brand" href="#">GSA/18F RFQ Prototype</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
