@@ -26,7 +26,7 @@
   </div>
   <div class="row">
     <div class="col-md-12">
-      <table>
+      <table class="table table-bordered table-striped">
         <tr>
           <th>Brand Name</th>
           <td>LUMAX 540 HF-T</td>
@@ -57,7 +57,7 @@
   </row>
   <div class="row">
     <div class="col-md-6">
-      <table>
+      <table class="table table-bordered table-striped">
         <tr>
           <th>Device Event Key  </th>
           <td>4786802</td>
@@ -101,7 +101,7 @@
       </table>
     </div>
     <div class="col-md-6">
-      <table>
+      <table class="table table-bordered table-striped">
         <tr><th>Device Operator</th><td>Health Professional</td></tr>
         <tr><th>Device MODEL Number</th><td>360347</td></tr>
         <tr><th>Device Catalogue Number</th><td>SEE MODEL NO.</td></tr>
@@ -120,7 +120,7 @@
   </div>
   <div class="row">
     <div class="col-md-12">
-      <table>
+      <table class="table table-bordered table-striped">
         <tr><th>Patient TREATMENT DATA</th></tr>
         <tr><th>Date Received: 05/18/2015 Patient Sequence Number: 1</th></tr>
       </table>
