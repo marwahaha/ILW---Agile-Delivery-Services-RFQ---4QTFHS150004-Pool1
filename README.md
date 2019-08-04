@@ -7,7 +7,7 @@ Description
 In response to The U.S. General Services Administration (GSA) 18F Request for Quotation (RFQ) 4QTFHS150004, 
 IlluminationWorks LLC (ILW) developed a design prototype using datasets from https://open.fda.gov. ILW 
 utilized flatfiles from the MAUDE dataset [http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM].
-Given the abreviated timeframe, ILW used Data Drive Documents (D3) to bind the MAUDE data to a Document Object Model (DOM), 
+Given the abbreviated timeframe, ILW used Data Drive Documents (D3) to bind the MAUDE data to a Document Object Model (DOM), 
 and then apply data-driven transformations to the documents generating HTML tables from the data files. This approach
 eliminated the need for a database backend without sacrificing performance or functionality and allows the prototype to be
 run from any webserver (i.e Python).
